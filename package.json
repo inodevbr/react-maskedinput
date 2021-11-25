@@ -1,5 +1,5 @@
 {
-  "name": "react-maskedinput",
+  "name": "next-maskedinput",
   "version": "4.0.2",
   "description": "Masked <input/> React component",
   "main": "lib/index.js",
